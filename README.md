@@ -1,4 +1,4 @@
-# coba1
+# barcode_info_product
 
 A new Flutter project.
 

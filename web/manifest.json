@@ -1,6 +1,6 @@
 {
-    "name": "coba1",
-    "short_name": "coba1",
+    "name": "barcode_info_product",
+    "short_name": "barcode_info_product",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="coba1"
+        android:label="barcode_info_product"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
